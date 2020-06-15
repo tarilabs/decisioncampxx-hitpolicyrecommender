@@ -17,7 +17,7 @@
     <semantic:informationRequirement id="_e3435805-4eed-4fcc-83d0-7a26c50a82a6">
       <semantic:requiredInput href="#_3aad4dbe-ad99-4dc3-8fad-cba91d4a7c15"/>
     </semantic:informationRequirement>
-    <semantic:decisionTable id="_3aa68aee-6314-482f-a0be-84c2411d65d7" typeRef="string" hitPolicy="UNIQUE" preferredOrientation="Rule-as-Row" outputLabel="Evaluation">
+    <semantic:decisionTable id="_3aa68aee-6314-482f-a0be-84c2411d65d7" typeRef="string" hitPolicy="ANY" preferredOrientation="Rule-as-Row" outputLabel="Evaluation">
       <semantic:input id="_de33d278-570e-4065-9d68-9f8ba6f4d1e6">
         <semantic:inputExpression id="_80231677-15E3-408B-8F29-070524EBFF57" typeRef="tLevel">
           <semantic:text>Level</semantic:text>
