@@ -50,6 +50,17 @@
           <semantic:text>"Harmful sound levels"</semantic:text>
         </semantic:annotationEntry>
       </semantic:rule>
+      <semantic:rule id="_9ad17ef0-3226-4c07-9a83-bd72ef71612d">
+        <semantic:inputEntry id="_c04cae1e-a7e8-46d6-8cdc-2cfa4f6adcb9">
+          <semantic:text>&gt;=120</semantic:text>
+        </semantic:inputEntry>
+        <semantic:outputEntry id="_e08a897c-9c66-4ee0-89b0-d3c74996c9cf">
+          <semantic:text>"Danger"</semantic:text>
+        </semantic:outputEntry>
+        <semantic:annotationEntry>
+          <semantic:text>"Seconds of exposure may cause irreversible damage"</semantic:text>
+        </semantic:annotationEntry>
+      </semantic:rule>
     </semantic:decisionTable>
   </semantic:decision>
   <dmndi:DMNDI>
